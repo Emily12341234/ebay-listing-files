@@ -40,7 +40,6 @@ a.linkopac:hover img {
 	text-align: center;
 	margin: 0;
 	padding: 0;
-	background: url(https://drive.google.com/uc?id=17AW9I5nIbSBKbD3zKPkrKov9QBProPcR) repeat center top;
 	background-size: 100% auto;
 	display: table;
 }
@@ -67,7 +66,7 @@ a.linkopac:hover img {
 	margin: 0 auto;
 	padding: 0;
 	display: table;
-	background: url(https://drive.google.com/uc?id=1YDkOHz0GA4fy6BnlQ6MTA5OxJcLIF1z4) repeat left top;
+	background: url(https://i.ibb.co/pw80nkP/bg-sm-2.jpg) repeat left top;
 }
 .text-img {
 	margin: 0;
@@ -148,11 +147,10 @@ a.linkopac:hover img {
 	width: 220px;
 	height: 30px;
 	position: relative;
-	float: right;
-	margin: 0 15px 10px 0;
+	float: left;
+	margin: 116px 15px 4px 4px;
 	padding: 0;
-	background: #000;
-	border-radius: 15px;
+	background: #fff;
 }
 #org-search #org-search {
 	width: 200px;
@@ -165,23 +163,24 @@ a.linkopac:hover img {
 	text-align: left;
 }
 #org-search #org-input {
-	width: 180px;
-	height: 30px;
+	width: 166px;
+	height: 26px;
 	margin: 0;
 	float: left;
 	text-transform: none;
 	padding: 0 10px;
 	font-family: Arial, Helvetica, sans-serif;
+	border: 2px solid #000;
 }
 #org-search #org-input .v4sbox {
 	color: #9c9c9d;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	width: 100%;
-	line-height: 30px;
+	line-height: 26px;
 	font-weight: normal;
 	margin: 0px;
-	height: 30px;
+	height: 26px;
 	text-transform: none;
 	text-align: left;
 	padding: 0px;
@@ -190,7 +189,7 @@ a.linkopac:hover img {
 	background: transparent none repeat scroll 0 0;
 }
 #org-search #org-submit {
-	width: 20px;
+	width: 30px;
 	height: 30px;
 	margin: 0px;
 	padding: 0px 0 0 0;
@@ -202,7 +201,7 @@ a.linkopac:hover img {
 	height: 30px;
 	margin: 0px;
 	float: right;
-	background: url(https://drive.google.com/uc?id=1e3kNt9ZKLfsahjfnICu3fM0ybGnLWErR) no-repeat left center;
+	background: url(https://i.ibb.co/CzQndB7/search-icon.jpg) no-repeat left center;
 	display: block;
 	border: none 0px;
 	text-indent: -999em;
@@ -210,7 +209,7 @@ a.linkopac:hover img {
 	transition: all 0.3s ease-out;
 }
 #org-search input.btn-search:hover {
-	background: url(https://drive.google.com/uc?id=1e3kNt9ZKLfsahjfnICu3fM0ybGnLWErR) no-repeat center center;
+	background: url(https://i.ibb.co/CzQndB7/search-icon.jpg) no-repeat left center;
 }
 .menu-holder {
 	width: 100%;
@@ -225,6 +224,7 @@ a.linkopac:hover img {
 	padding: 0;
 	display: table;
 	background: #000;
+	border-left: 1px solid #000;
 }
 #org-menu ul {
 	width: 100%;
@@ -235,7 +235,6 @@ a.linkopac:hover img {
 #org-menu li {
 	float: left;
 	width: auto;
-	margin: 0 21px;
 	list-style: none;
 	padding: 0;
 	transition: all 0.5s ease;
@@ -245,19 +244,29 @@ a.linkopac:hover img {
 	width: auto;
 	float: left;
 	margin: 0;
-	padding: 14px 0 5px;
+	padding: 16px 14px;
 	color: #fff;
-	font-size: 18px;
-	font-family: 'Boogaloo', cursive;
-	font-weight: 400;
+	font-size: 16px;
+	font-family: arial;
+	font-weight: bold;
 	text-decoration: none;
 	transition: all 0.5s ease;
 	text-transform: uppercase;
 	text-align: center;
-	border-bottom: 10px solid #000;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
 }
 #org-menu li a:hover {
-	border-bottom: 10px solid #fa0003;
+	background: #fff;
+	color: #000;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+#org-menu li a.tw-active {
+    background: #fff;
+    color: #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
 }
 #org-menu li:last-child {
 	float: right;
@@ -266,7 +275,8 @@ a.linkopac:hover img {
 #org-menu li:last-child a {
 	margin: 0;
 	padding: 0;
-	border: 0 none;
+	border-top: 1px solid #000;
+    	border-bottom: 1px solid #000;
 }
 #banner-holder {
 	width: 100%;
