@@ -409,11 +409,11 @@ a.linkopac:hover img {
 	color: #000;
 	display: block;
 	font-family: arial;
-	font-size: 16px;
-	font-weight: normal;
+	font-size: 13px;
+	font-weight: bold;
 	margin: 0;
 	overflow: hidden;
-	padding: 3px 5px 3px 10px;
+	padding: 4px 0;
 	text-align: left;
 	text-decoration: none;
 	width: auto;
@@ -846,8 +846,8 @@ img[src=""], img[src=" "] {
 	float: left;
 	margin: 0 0 10px 0;
 	padding: 8px;
-	font-size: 30px;
-	font-weight: normal;
+	font-size: 22px;
+	font-weight: bold;
 	font-family: arial;
 	color: #000;
 	text-decoration: none;
@@ -941,9 +941,9 @@ img[src=""], img[src=" "] {
 	width: auto;
 }
 #spw-tabs ul li a:hover, #spw-tabs ul li a.spw-selected {
-	color: #ff2c2b;
+	color: #fff;
 	text-decoration: none;
-	background: url(https://drive.google.com/uc?id=1PuOvY2O0B6JJZcuP2nDq7OAvuJMDKVE3) no-repeat left center;
+	background: #000;
 }
 #spw-tabs ul li a:hover span, #spw-tabs ul li a.spw-selected span {
 	color: #ff2c2b;
@@ -968,7 +968,7 @@ img[src=""], img[src=" "] {
 	font-size: 15px;
 	color: #000;
 	line-height: 20px;
-	font-weight: normal;
+	font-weight: bold;
 	position: relative;
 	clear: both;
 	text-align: justify;
@@ -998,7 +998,7 @@ img[src=""], img[src=" "] {
 }
 #spw-tabpanels div h2 {
 	font-family: arial;
-	font-size: 22px;
+	font-size: 18px;
 	color: #000;
 	text-decoration: none;
 	text-align: center;
