@@ -58,7 +58,7 @@ a.linkopac:hover img {
 	padding: 0;
 	margin: 0 auto;
 	display: table;
-	background: url(https://drive.google.com/uc?id=1YDkOHz0GA4fy6BnlQ6MTA5OxJcLIF1z4) repeat left top;
+	background: url(https://i.ibb.co/pw80nkP/bg-sm-2.jpg) repeat left top;
 }
 #org-header {
 	width: 1000px;
@@ -371,7 +371,7 @@ a.linkopac:hover img {
 	font-size: 30px;
 	font-weight: normal;
 	font-family: 'Boogaloo', cursive;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: center;
 	background: none;
@@ -384,7 +384,7 @@ a.linkopac:hover img {
 	margin: 0;
 	position: relative;
 	padding: 8px;
-	background: url(https://drive.google.com/uc?id=15DYzUMaiMyDmFOR6AKpNTb9AdjuAQ83c) repeat center top;
+	background: #fff;
 	border: 2px solid #000;
 }
 #org-categories ul.lev1 {
@@ -405,8 +405,8 @@ a.linkopac:hover img {
 	background: none;
 }
 #org-categories ul.lev1 li a {
-	background: url(https://drive.google.com/uc?id=1OELzpWjR5tqKpkgnpraLmA2c5L03huDU) no-repeat left center;
-	color: #fff;
+	background: #fff;
+	color: #000;
 	display: block;
 	font-family: 'Boogaloo', cursive;
 	font-size: 16px;
@@ -462,8 +462,8 @@ a.linkopac:hover img {
 	background: none;
 }
 #org-categories ul.lev2 li a {
-	background: url(https://drive.google.com/uc?id=1OELzpWjR5tqKpkgnpraLmA2c5L03huDU) no-repeat 15px center;
-	color: #fff;
+	background: #fff;
+	color: #000;
 	display: block;
 	font-family: 'Boogaloo', cursive;
 	font-size: 15px;
@@ -532,7 +532,7 @@ a.linkopac:hover img {
 	font-size: 18px;
 	text-align: left;
 	font-weight: 900;
-	color: #fff;
+	color: #000;
 }
 .f-col1 {
 	width: 50%;
@@ -633,7 +633,7 @@ a.linkopac:hover img {
 	transition: all 0.4s ease-out 0s;
 	font-family: 'Lato', sans-serif;
 	font-size: 16px;
-	color: #fff;
+	color: #000;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	border-radius: 5px;
@@ -720,7 +720,7 @@ a.linkopac:hover img {
 	font-size: 30px;
 	font-weight: normal;
 	font-family: 'Boogaloo', cursive;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: center;
 	background: none;
@@ -852,7 +852,7 @@ img[src=""], img[src=" "] {
 	font-size: 30px;
 	font-weight: normal;
 	font-family: 'Boogaloo', cursive;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: center;
 	background: none;
@@ -870,7 +870,7 @@ img[src=""], img[src=" "] {
 .desc-text {
 	font-family: 'Boogaloo', cursive;
 	font-size: 16px;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	font-weight: normal;
 	text-align: left;
@@ -881,11 +881,11 @@ img[src=""], img[src=" "] {
 
 /*---Tab Start----*/
 #spw-tab1 > a {
-	color: #fff;
+	color: #000;
 	text-decoration: underline;
 }
 #spw-tab1 > a:hover {
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 }
 #teb-bg {
@@ -924,7 +924,7 @@ img[src=""], img[src=" "] {
 	width: 121px;
 }
 #spw-tabs ul li a {
-	color: #fff;
+	color: #000;
 	display: block;
 	font-family: 'Boogaloo', cursive;
 	font-size: 18px;
@@ -971,7 +971,7 @@ img[src=""], img[src=" "] {
 	margin: 0 0 20px 0;
 	font-family: 'Boogaloo', cursive;
 	font-size: 16px;
-	color: #fff;
+	color: #000;
 	line-height: 18px;
 	font-weight: normal;
 	position: relative;
@@ -983,7 +983,7 @@ img[src=""], img[src=" "] {
 	text-transform: uppercase;
 }
 #spw-tabpanels div a {
-	color: #fff !important;
+	color: #000 !important;
 	text-decoration: underline;
 }
 #spw-tabpanels div a:hover {
@@ -993,7 +993,7 @@ img[src=""], img[src=" "] {
 #spw-tabpanels div h1 {
 	font-family: 'Boogaloo', cursive;
 	font-size: 22px;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: center;
 	width: 100%;
@@ -1006,7 +1006,7 @@ img[src=""], img[src=" "] {
 #spw-tabpanels div h2 {
 	font-family: 'Boogaloo', cursive;
 	font-size: 22px;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: center;
 	width: 100%;
