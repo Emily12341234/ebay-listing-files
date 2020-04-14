@@ -1,0 +1,232 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width: 479px) {
+#org-header {
+	width: 100%;
+	float: left;
+}
+.text-img {
+	display: none;
+}
+#org-logo {
+	width: 94%;
+	margin: 10px 3%;
+}
+#org-logo img {
+	width: 100%;
+	max-width: 100%;
+}
+.right-top {
+	display: none;
+}
+.menu-holder, .promo {
+	display: none;
+}
+.org-content {
+	width: 100%;
+	float: left;
+}
+#LeftPanel {
+	display: none;
+}
+#listingarea {
+	width: 100%;
+	margin: 0;
+}
+.org-listinghead, .desc-hedtitle {
+	width: 96%;
+	padding: 8px 2%;
+	border-left: hidden;
+	border-right: hidden;
+}
+#img-gallery-box {
+	display: none;
+}
+.desc-rd {
+	width: 96%;
+	padding: 20px 2%;
+}
+#teb-bg {
+	display: none;
+}
+.org-scrolleo-box {
+	display: none;
+}
+#org-footer {
+	width: 100%;
+	float: left;
+}
+#org-newsletter, .f-col1, .f-col2 {
+	display: none;
+}
+/*Gallery*/
+.mobile_slider {
+	background: none repeat scroll 0 0 #fff;
+	border: 0px none;
+	display: block;
+	float: left;
+	padding: 2% 0;
+	margin: 0;
+	width: 100%;
+}
+.thum-resize2 {
+	margin: 0 auto;
+	max-height: 300px;
+	max-width: 100%;
+	text-align: center;
+	width: auto;
+}
+.mobile_slider {
+	display: block;
+	position: relative;
+}
+.thum-resize2 {
+	margin: 0 auto;
+	max-height: 250px;
+	max-width: 100%;
+	text-align: center;
+	width: auto;
+}
+.mobile_slider ul {
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+}
+.mobile_slider li {
+	display: none;
+}
+.mobile_slider li.active {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+}
+.mobile .next_btn {
+	background: url(https://drive.google.com/uc?id=1yMjR1w4IYMWag61s04FoDr6wwuoDLtGX) right center;
+	float: left;
+	height: 30px;
+	position: absolute;
+	right: 1px;
+	top: 40%;
+	width: 15px;
+	cursor: pointer;
+	display: none;
+}
+.mobile .prev_btn {
+	background: url(https://drive.google.com/uc?id=1yMjR1w4IYMWag61s04FoDr6wwuoDLtGX) left center;
+	float: left;
+	height: 30px;
+	left: 0;
+	position: absolute;
+	top: 40%;
+	width: 15px;
+	z-index: 9;
+	cursor: pointer;
+	display: none;
+}
+/*Gallery*/
+
+/*start mobile tab css*/
+.mobile_tab {
+	display: block;
+	float: left;
+	margin: 1% 0 0 0;
+	padding: 0;
+	width: 100%;
+}
+#nav>li.last>a {
+	background: #000;
+}
+#nav>li.last>a:hover {
+	background: #680d09;
+}
+#nav>li>a {
+	background: #000 url(https://drive.google.com/uc?id=1rUQapmqB5QWRjzk7z6AJ9fxjj9pkOOnn) no-repeat 95% center;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+	float: left;
+	font-family: 'Boogaloo', cursive;
+	font-size: 24px;
+	font-weight: normal;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	width: 100%;
+}
+#nav>li>a:hover {
+	background: #680d09 url(https://drive.google.com/uc?id=1YOhM9QEn4I__fVg00xcnjvbpVZOIDoQ7) no-repeat 95% center;
+	color: #ff2c2b;
+}
+#nav>li>a.open {
+	background: #680d09 url(https://drive.google.com/uc?id=1YOhM9QEn4I__fVg00xcnjvbpVZOIDoQ7) no-repeat 95% center;
+	color: #ff2c2b;
+}
+#nav li .tab_desc {
+	padding: 3%;
+	text-align: justify;
+	display: none;
+	width: 94%;
+	float: left;
+	font-family: 'Boogaloo', cursive;
+	font-size: 16px;
+	color: #fff;
+	font-weight: normal;
+	line-height: normal;
+	border-bottom: 1px solid #fff;
+	background: url(https://drive.google.com/uc?id=15DYzUMaiMyDmFOR6AKpNTb9AdjuAQ83c) repeat left top;
+	text-transform: uppercase;
+}
+#nav li .tab_desc a {
+	color: #000;
+	text-decoration: none;
+}
+#nav li .tab_desc img {
+	width: auto;
+	max-width: 100%;
+}
+#nav li .tab_desc li {
+	width: 95%;
+	margin: 1% 0;
+	padding: 0 0 0 5%;
+	list-style: none;
+	background: url(../images/left-cat-arrow.png) no-repeat 5px 5px;
+}
+#nav li .tab_desc li span {
+	font-weight: 700;
+}
+#nav li ul strong {
+}
+#nav li ul strong a {
+}
+#nav>li:nth-child(1)>.tab_desc {
+	display: block;
+}
+.mobile_tab > ul {
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+}
+#nav li .tab_desc a {
+	color: #fff !important;
+	text-decoration: underline;
+}
+#nav li .tab_desc a:hover {
+	color: #fa0003 !important;
+	text-decoration: none;
+}
+#nav li .tab_desc h1 {
+	font-family: 'Boogaloo', cursive;
+	font-size: 20px;
+	color: #fff;
+	text-decoration: none;
+	text-align: justify;
+	width: 100%;
+	margin: 0 0 20px 0;
+	float: left;
+	padding: 0;
+	background: none;
+	text-transform: uppercase;
+}
+/*end mobile tab css*/
+}
