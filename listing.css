@@ -368,9 +368,9 @@ a.linkopac:hover img {
 	float: left;
 	margin: 0 0 10px 0;
 	padding: 8px;
-	font-size: 30px;
-	font-weight: normal;
-	font-family: 'Boogaloo', cursive;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: arial;
 	color: #000;
 	text-decoration: none;
 	text-align: center;
@@ -408,7 +408,7 @@ a.linkopac:hover img {
 	background: #fff;
 	color: #000;
 	display: block;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 16px;
 	font-weight: normal;
 	margin: 0;
@@ -424,20 +424,18 @@ a.linkopac:hover img {
 	text-decoration: underline;
 	color: #fa0003;
 	transition: all 0.5s ease 0s;
-	background: url(https://drive.google.com/uc?id=1OELzpWjR5tqKpkgnpraLmA2c5L03huDU) no-repeat left center;
 }
 #org-categories ul.lev1 li span {
-	background: url(https://drive.google.com/uc?id=1OELzpWjR5tqKpkgnpraLmA2c5L03huDU) no-repeat left center;
-	color: #fa0003;
+	color: #000;
 	display: block;
-	font-family: 'Boogaloo', cursive;
-	font-size: 16px;
-	font-weight: normal;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
 	margin: 0;
 	overflow: hidden;
-	padding: 3px 5px 3px 10px;
+	padding: 4px 0;
 	text-align: left;
-	text-decoration: underline;
+	text-decoration: none;
 	width: auto;
 	transition: all 0.5s ease 0s;
 	text-transform: uppercase;
@@ -462,12 +460,11 @@ a.linkopac:hover img {
 	background: none;
 }
 #org-categories ul.lev2 li a {
-	background: #fff;
 	color: #000;
 	display: block;
-	font-family: 'Boogaloo', cursive;
-	font-size: 15px;
-	font-weight: normal;
+	font-family: arial;
+	font-size: 13px;
+	font-weight: bold;
 	margin: 0;
 	overflow: hidden;
 	padding: 3px 5px 3px 25px;
@@ -479,13 +476,13 @@ a.linkopac:hover img {
 #org-categories ul.lev2 li a:hover {
 	text-decoration: underline;
 	color: #fa0003;
-	background: url(https://drive.google.com/uc?id=1OELzpWjR5tqKpkgnpraLmA2c5L03huDU) no-repeat 15px center;
+	background: #fff;
 }
 #org-categories ul.lev2 li span {
-	background: url(https://drive.google.com/uc?id=1OELzpWjR5tqKpkgnpraLmA2c5L03huDU) no-repeat 15px center;
+	background: #fff;
 	color: #fa0003;
 	display: block;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 15px;
 	font-weight: normal;
 	margin: 0;
@@ -717,9 +714,9 @@ a.linkopac:hover img {
 	float: left;
 	margin: 0 0 10px 0;
 	padding: 8px;
-	font-size: 30px;
-	font-weight: normal;
-	font-family: 'Boogaloo', cursive;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: arial;
 	color: #000;
 	text-decoration: none;
 	text-align: center;
@@ -851,7 +848,7 @@ img[src=""], img[src=" "] {
 	padding: 8px;
 	font-size: 30px;
 	font-weight: normal;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	color: #000;
 	text-decoration: none;
 	text-align: center;
@@ -867,14 +864,13 @@ img[src=""], img[src=" "] {
 	border: 0 none;
 }
 .desc-text {
-	font-family: 'Boogaloo', cursive;
-	font-size: 16px;
+	font-family: arial;
+	font-size: 15px;
 	color: #000;
 	text-decoration: none;
-	font-weight: normal;
+	font-weight: bold;
 	text-align: left;
 	line-height: normal;
-	text-transform: uppercase;
 }
 /*---Listing Column End----*/
 
@@ -925,9 +921,9 @@ img[src=""], img[src=" "] {
 #spw-tabs ul li a {
 	color: #000;
 	display: block;
-	font-family: 'Boogaloo', cursive;
-	font-size: 18px;
-	font-weight: normal;
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
 	text-align: center;
 	text-decoration: none;
 	background: none;
@@ -968,17 +964,16 @@ img[src=""], img[src=" "] {
 	float: left;
 	padding: 20px;
 	margin: 0 0 20px 0;
-	font-family: 'Boogaloo', cursive;
-	font-size: 16px;
+	font-family: arial;
+	font-size: 15px;
 	color: #000;
-	line-height: 18px;
+	line-height: 20px;
 	font-weight: normal;
 	position: relative;
 	clear: both;
 	text-align: justify;
 	text-decoration: none;
 	border: 0 none;
-	text-transform: uppercase;
 }
 #spw-tabpanels div a {
 	color: #000 !important;
@@ -989,8 +984,8 @@ img[src=""], img[src=" "] {
 	text-decoration: none;
 }
 #spw-tabpanels div h1 {
-	font-family: 'Boogaloo', cursive;
-	font-size: 22px;
+	font-family: arial;
+	font-size: 18px;
 	color: #000;
 	text-decoration: none;
 	text-align: center;
@@ -1002,7 +997,7 @@ img[src=""], img[src=" "] {
 	text-transform: uppercase;
 }
 #spw-tabpanels div h2 {
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 22px;
 	color: #000;
 	text-decoration: none;
