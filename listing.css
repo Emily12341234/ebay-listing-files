@@ -946,7 +946,7 @@ img[src=""], img[src=" "] {
 	background: #000;
 }
 #spw-tabs ul li a:hover span, #spw-tabs ul li a.spw-selected span {
-	color: #ff2c2b;
+	color: #fff;
 	text-decoration: none;
 }
 #spw-tabs ul li a.spw-selected {
