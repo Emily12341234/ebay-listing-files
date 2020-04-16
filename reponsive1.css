@@ -140,7 +140,7 @@
 	background: #680d09;
 }
 #nav>li>a {
-	background: #000 url(https://drive.google.com/uc?id=1rUQapmqB5QWRjzk7z6AJ9fxjj9pkOOnn) no-repeat 95% center;
+	background: #000;
 	border-bottom: 1px solid #fff;
 	color: #fff;
 	float: left;
@@ -155,11 +155,9 @@
 	width: 100%;
 }
 #nav>li>a:hover {
-	background: #680d09 url(https://drive.google.com/uc?id=1YOhM9QEn4I__fVg00xcnjvbpVZOIDoQ7) no-repeat 95% center;
 	color: #ff2c2b;
 }
 #nav>li>a.open {
-	background: #680d09 url(https://drive.google.com/uc?id=1YOhM9QEn4I__fVg00xcnjvbpVZOIDoQ7) no-repeat 95% center;
 	color: #ff2c2b;
 }
 #nav li .tab_desc {
