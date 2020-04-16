@@ -210,7 +210,7 @@
 	padding: 0;
 }
 #nav li .tab_desc a {
-	color: #fff !important;
+	color: #000 !important;
 	text-decoration: underline;
 }
 #nav li .tab_desc a:hover {
@@ -220,7 +220,7 @@
 #nav li .tab_desc h1 {
 	font-family: arial;
 	font-size: 20px;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: justify;
 	width: 100%;
@@ -436,7 +436,7 @@
 	padding: 0;
 }
 #nav li .tab_desc a {
-	color: #fff !important;
+	color: #000 !important;
 	text-decoration: underline;
 }
 #nav li .tab_desc a:hover {
@@ -446,7 +446,7 @@
 #nav li .tab_desc h1 {
 	font-family: arial;
 	font-size: 20px;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: justify;
 	width: 100%;
@@ -602,7 +602,7 @@
 	border-bottom: 1px solid #fff;
 	color: #fff;
 	float: left;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 24px;
 	font-weight: normal;
 	height: 40px;
@@ -613,10 +613,10 @@
 	width: 100%;
 }
 #nav>li>a:hover {
-	color: #ff2c2b;
+	color: #fff;
 }
 #nav>li>a.open {
-	color: #ff2c2b;
+	color: #fff;
 }
 #nav li .tab_desc {
 	padding: 3%;
@@ -662,7 +662,7 @@
 	padding: 0;
 }
 #nav li .tab_desc a {
-	color: #fff !important;
+	color: #000 !important;
 	text-decoration: underline;
 }
 #nav li .tab_desc a:hover {
@@ -672,7 +672,7 @@
 #nav li .tab_desc h1 {
 	font-family: arial;
 	font-size: 20px;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 	text-align: justify;
 	width: 100%;
