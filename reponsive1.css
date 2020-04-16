@@ -144,7 +144,7 @@
 	border-bottom: 1px solid #fff;
 	color: #fff;
 	float: left;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 24px;
 	font-weight: normal;
 	height: 40px;
@@ -155,10 +155,10 @@
 	width: 100%;
 }
 #nav>li>a:hover {
-	color: #ff2c2b;
+	color: #fff;
 }
 #nav>li>a.open {
-	color: #ff2c2b;
+	color: #fff;
 }
 #nav li .tab_desc {
 	padding: 3%;
