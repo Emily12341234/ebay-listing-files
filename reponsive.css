@@ -172,14 +172,12 @@
 	display: none;
 	width: 94%;
 	float: left;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 16px;
 	color: #fff;
 	font-weight: normal;
 	line-height: normal;
 	border-bottom: 1px solid #fff;
-	background: url(https://drive.google.com/uc?id=15DYzUMaiMyDmFOR6AKpNTb9AdjuAQ83c) repeat left top;
-	text-transform: uppercase;
 }
 #nav li .tab_desc a {
 	color: #000;
@@ -220,7 +218,7 @@
 	text-decoration: none;
 }
 #nav li .tab_desc h1 {
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 20px;
 	color: #fff;
 	text-decoration: none;
@@ -400,14 +398,12 @@
 	display: none;
 	width: 94%;
 	float: left;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 16px;
 	color: #fff;
 	font-weight: normal;
 	line-height: normal;
 	border-bottom: 1px solid #fff;
-	background: url(https://drive.google.com/uc?id=15DYzUMaiMyDmFOR6AKpNTb9AdjuAQ83c) repeat left top;
-	text-transform: uppercase;
 }
 #nav li .tab_desc a {
 	color: #000;
@@ -448,7 +444,7 @@
 	text-decoration: none;
 }
 #nav li .tab_desc h1 {
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 20px;
 	color: #fff;
 	text-decoration: none;
@@ -628,14 +624,12 @@
 	display: none;
 	width: 94%;
 	float: left;
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 16px;
 	color: #fff;
 	font-weight: normal;
 	line-height: normal;
 	border-bottom: 1px solid #fff;
-	background: url(https://drive.google.com/uc?id=15DYzUMaiMyDmFOR6AKpNTb9AdjuAQ83c) repeat left top;
-	text-transform: uppercase;
 }
 #nav li .tab_desc a {
 	color: #000;
@@ -676,7 +670,7 @@
 	text-decoration: none;
 }
 #nav li .tab_desc h1 {
-	font-family: 'Boogaloo', cursive;
+	font-family: arial;
 	font-size: 20px;
 	color: #fff;
 	text-decoration: none;
