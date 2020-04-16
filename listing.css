@@ -868,7 +868,7 @@ img[src=""], img[src=" "] {
 .desc-rd {
 	width: 670px;
 	float: left;
-	padding: 20px;
+	padding: 0 20px;
 	margin: 0;
 	border: 0 none;
 }
@@ -954,13 +954,18 @@ img[src=""], img[src=" "] {
 	text-decoration: none;
 	background: #000;
 }
+#spw-tabs ul li a.tw-active-span {
+	color: #fff;
+	text-decoration: none;
+	background: #000;
+}
 #spw-tabs ul li a:hover span, #spw-tabs ul li a.spw-selected span {
 	color: #fff;
 	text-decoration: none;
 }
 #spw-tabs ul li a.spw-selected {
 	text-decoration: none;
-	color: #ff2c2b;
+	color: #fff;
 	cursor: pointer;
 }
 #spw-tabs ul li a.spw-selected span {
