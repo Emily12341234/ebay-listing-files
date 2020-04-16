@@ -25,6 +25,15 @@ a.linkopac:hover img {
 .org-wrap {
 	width: 100%;
 }
+.separator-top {
+    margin-bottom: 10px !important;
+    padding: 0 0 5px 0 !important;
+    font-size: 20px !important;
+    color: #cf2928 !important;
+    border-bottom: 2px solid #cf2928 !important;
+    text-align: center !important;
+    font-weight: bold !important;
+}
 .org-wrapcen {
 	width: 100%;
 	float: left;
