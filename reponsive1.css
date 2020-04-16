@@ -172,7 +172,6 @@
 	font-weight: normal;
 	line-height: normal;
 	border-bottom: 1px solid #fff;
-	text-transform: uppercase;
 }
 #nav li .tab_desc a {
 	color: #000;
@@ -205,7 +204,7 @@
 	padding: 0;
 }
 #nav li .tab_desc a {
-	color: #fff !important;
+	color: #000 !important;
 	text-decoration: underline;
 }
 #nav li .tab_desc a:hover {
