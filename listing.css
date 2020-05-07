@@ -286,6 +286,12 @@ a.linkopac:hover img {
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
 }
+#org-menu li:first-child {
+    background: #fff;
+    color: #000;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
 #org-menu li:last-child {
 	float: right;
 	margin: 0;
@@ -724,10 +730,11 @@ a.linkopac:hover img {
 }
 .org-listingarea-box {
 	float: left;
-	margin-bottom: 20px;
+	margin-bottom: 0;
 	width: 100%;
 }
 .org-listinghead {
+	display:none;
 	width: 690px;
 	float: left;
 	margin: 0 0 10px 0;
@@ -964,6 +971,11 @@ img[src=""], img[src=" "] {
 	background: #000;
 }
 #spw-tabs ul li a.tw-active-span {
+	color: #fff;
+	text-decoration: none;
+	background: #000;
+}
+#spw-tabs ul li:first-child {
 	color: #fff;
 	text-decoration: none;
 	background: #000;
