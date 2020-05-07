@@ -97,6 +97,7 @@ a.linkopac:hover img {
 	float: left;
 	margin: 29px 0 0 52px;
 	padding: 0;
+	opacity: 0;
 }
 #org-logo {
 	width: 40%;
