@@ -735,7 +735,7 @@ a.linkopac:hover img {
 	margin-bottom: 0;
 	width: 100%;
 }
-.org-listingarea-box:first-child {
+.org-listingarea-box .org-listinghead,.mobile_tab,#teb-bg,#img-gallery-box,.org-listinghead {
   display: none !important;
 } 
 .org-listinghead {
