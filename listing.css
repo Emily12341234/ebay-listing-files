@@ -118,9 +118,7 @@ a.linkopac:hover img {
 	float: left;
 	margin: 0;
 	padding: 0;
-}
-.right-top #org-search,.dispatch {
-  display:none !important;
+	display:none !important;
 }
 #org-social {
 	float: left;
@@ -286,7 +284,7 @@ a.linkopac:hover img {
 }
 #org-menu li a.tw-active {
     background: #fff;
-    color: #000;
+    color: #000 !important;
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
 }
@@ -975,7 +973,7 @@ img[src=""], img[src=" "] {
 	background: #000;
 }
 #spw-tabs ul li a.tw-active-span {
-	color: #fff;
+	color: #fff !important;
 	text-decoration: none;
 	background: #000;
 }
