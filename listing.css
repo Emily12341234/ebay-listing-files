@@ -288,7 +288,7 @@ a.linkopac:hover img {
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
 }
-#org-menu li:first-child {
+#org-menu li:first-child a {
     background: #fff;
     color: #000 !important;
     border-top: 1px solid #000;
@@ -980,7 +980,7 @@ img[src=""], img[src=" "] {
 	text-decoration: none;
 	background: #000;
 }
-#spw-tabs ul li:first-child {
+#spw-tabs ul li:first-child a {
 	color: #fff !important;
 	text-decoration: none;
 	background: #000;
